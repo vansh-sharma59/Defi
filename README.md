@@ -2,7 +2,7 @@
 
   <p><b>DeFi</b> is a dynamic cryptocurrency rates platform with real-time data fetched from powerful API. This website is created using react with vanila CSS.</p>
 
-👉 Live Demo: <a href='defi-sandy.vercel.app'>DeFi Demo</a>
+👉 Live Demo: <a href='https://defi-sandy.vercel.app'>DeFi Demo</a>
 
   <h3>Build with:</h3>
 
